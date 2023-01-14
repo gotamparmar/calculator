@@ -1,0 +1,23 @@
+.cantainer{
+    text-align: center;
+    margin-top: 20 px;
+}
+table{
+    margin: auto;
+   
+}
+input{
+    font-size: 30px;
+    background-color: antiquewhite;
+    border:solid green 2px;
+}
+button{
+    font-size: 25px;
+    background-color: aqua;
+    width: 90px;
+    height: 60px;
+}
+body{
+   background-color: aliceblue;
+
+}
